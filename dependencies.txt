@@ -1,0 +1,3 @@
+pip install streamlit
+pip install tensorflow
+pip install opencv-python-headless
