@@ -7,7 +7,8 @@ def load_model():
   return model
 model=load_model()
 st.write("""
-# Weather Classifier """
+# Weather Classifier
+## Cloudy, Rainy, Sunrise, and Sun Shine """
 )
 file=st.file_uploader("Choose weather photo from computer",type=["jpg","png"])
 
